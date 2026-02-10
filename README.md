@@ -1,6 +1,6 @@
-# Random Topic...
+# Random Recipe Ideas
 
-- Topic incoming...
+- Recipe ideas for when you don't know what to eat
 
 ## What is this?
 - Website that generates random quotes and colors of inspiration.
