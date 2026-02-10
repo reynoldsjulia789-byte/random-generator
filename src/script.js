@@ -6,15 +6,15 @@ const backgrounds = ["bg-red-300", "bg-green-300", "bg-blue-300"];
 // Sample design quotes JSON data
 const quotes = [
   {
-    quote: "Quote 0",
+    quote: "Recipe1",
     author: "Citation 0"
   },
   {
-    quote: "Quote 1",
+    quote: "Recipe2",
     author: "Citation 1"
   },
   {
-    quote: "Quote 2",
+    quote: "Recipe3",
     author: "Citation 2"
   }
 ];
