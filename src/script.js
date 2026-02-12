@@ -152,6 +152,10 @@ const dishes =
     ingredients:  "italian ground sausage, butter, onion, broth, potatoes, heavy cream, kale, bacon, parmesean"
   },
   {
+    dish:         "Chicken Gnocchi Soup",
+    ingredients:  "chicken, gnocchi, butter, onion, celery, carrot, broth, half and half, spinach"
+  },
+  {
     dish:         "Jambalaya",
     ingredients:  "chicken, andouille sausage, shrimp, onion, celery, peppers, broth, canned diced tomatoes, rice"
   }
